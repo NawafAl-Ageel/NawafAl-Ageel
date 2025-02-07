@@ -24,12 +24,12 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 📊 **Machine Learning & AI (PyTorch, TensorFlow, OpenAI API)**  
 
 ---
-### 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NawafAl-Ageel&show_icons=true&theme=radical&hide_border=true&card_width=350)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawafAl-Ageel&layout=compact&theme=radical&hide_border=true&card_width=320)
+## 📊 **GitHub Stats & Activity**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NawafAl-Ageel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NawafAl-Ageel&layout=compact&theme=radical)
 
-#### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NawafAl-Ageel&theme=radical&no-frame=true&margin-w=5&row=1&column=5)
+### **🏆 GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NawafAl-Ageel&theme=radical&no-frame=true&margin-w=15)
 
 
 ---
