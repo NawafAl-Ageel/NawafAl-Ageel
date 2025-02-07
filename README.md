@@ -25,11 +25,11 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 
 ---
 ### 📊 GitHub Stats & Activity
-<img src="https://github-readme-stats.vercel.app/api?username=NawafAl-Ageel&show_icons=true&theme=radical" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawafAl-Ageel&layout=compact&theme=radical" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=NawafAl-Ageel&show_icons=true&theme=radical" width="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawafAl-Ageel&layout=compact&theme=radical" width="300">
 
 #### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=NawafAl-Ageel&theme=radical&no-frame=true&margin-w=5" width="600">
+<img src="https://github-profile-trophy.vercel.app/?username=NawafAl-Ageel&theme=radical&no-frame=true&margin-w=5" width="500">
 
 ---
 
