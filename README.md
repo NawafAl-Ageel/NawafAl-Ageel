@@ -25,13 +25,19 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats & Activity**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+### **🔥 GitHub Streaks**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+
+### **🏆 GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
 ## 📫 **Let's Connect**
 🌐 **Portfolio:** [your-portfolio-link.com](https://nawafalageel.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nawaf-alageel-794462312/))  
-📧 **Email:** [NawafSoftwareEng@gmail.com](mailto:NawafSoftwareEng@gmail.com)  
+📧 **Email:** [NawafSoftwareEng@gmail.com](mailto:NawafSoftwareEng@gmail.com) 
