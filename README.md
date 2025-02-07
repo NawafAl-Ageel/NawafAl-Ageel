@@ -38,6 +38,6 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 ---
 
 ## 📫 **Let's Connect**
-🌐 **Portfolio:** [your-portfolio-link.com](https://nawafalageel.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nawaf-alageel-794462312/))  
+🌐 **Portfolio:** [Nawaf Alageel](https://nawafalageel.com)  
+💼 **LinkedIn:** [linkedin.com/in/nawaf-alageel-794462312](https://www.linkedin.com/in/nawaf-alageel-794462312/))  
 📧 **Email:** [NawafSoftwareEng@gmail.com](mailto:NawafSoftwareEng@gmail.com)
