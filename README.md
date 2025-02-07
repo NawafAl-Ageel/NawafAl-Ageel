@@ -9,8 +9,8 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 ## 🔧 **Skills & Technologies**
 
 ### **Cloud & DevOps**
-☁️ **AWS (Certified Solutions Architect & SysOps)**  
-🛠️ **Infrastructure as Code (Terraform, CloudFormation)**  
+☁️ **AWS (Certified Solutions Architect)**  
+🛠️ **Infrastructure as Code (CloudFormation)**  
 🔄 **CI/CD (GitHub Actions, Jenkins, AWS CodePipeline)**  
 
 ### **Security & Cybersecurity**
@@ -38,6 +38,6 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 ---
 
 ## 📫 **Let's Connect**
-🌐 **Portfolio:** [your-portfolio-link.com](your-portfolio-link.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🌐 **Portfolio:** [your-portfolio-link.com](https://nawafalageel.com)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nawaf-alageel-794462312/))  
 📧 **Email:** [NawafSoftwareEng@gmail.com](mailto:NawafSoftwareEng@gmail.com)
