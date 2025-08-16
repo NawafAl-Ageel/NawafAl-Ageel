@@ -18,10 +18,9 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 🛡️ **Network Security, IAM, Penetration Testing (TryHackMe)**  
 📊 **Log Analysis & Threat Detection**  
 
-### **Software Development & Data Science**
+### **Software Development**
 💻 **Java, Python, JavaScript, Node.js**  
-📂 **Databases (MySQL, PostgreSQL, DynamoDB)**  
-📊 **Machine Learning & AI (PyTorch, TensorFlow, OpenAI API)**  
+📂 **Databases (MySQL, MongoDB, DynamoDB)**  
 
 ---
 ## 📊 **GitHub Stats & Activity**
