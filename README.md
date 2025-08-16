@@ -9,7 +9,8 @@ I'm a **Software Engineering graduate from King Saud University**, passionate ab
 ## 🔧 **Skills & Technologies**
 
 ### **Cloud & DevOps**
-☁️ **AWS (Certified Solutions Architect) (SAA-C03)**  
+☁️ **AWS (Certified Solutions Architect) (SAA-C03)** 
+☁️ **Serverless Architecture (AWS Lambda, AWS SQS) ** 
 🛠️ **Infrastructure as Code (CloudFormation)**  
 🔄 **CI/CD (GitHub Actions, Jenkins, AWS CodePipeline)**  
 
